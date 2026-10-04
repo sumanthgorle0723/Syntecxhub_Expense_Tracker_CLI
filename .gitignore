@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+expense_report.xlsx
+expense_chart.png
+transactions.csv
